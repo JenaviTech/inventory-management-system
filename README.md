@@ -3,6 +3,10 @@
 **Description:**  
 This project involves the design and development of an inventory management system using C# and SQL Server. It focuses on efficient data handling, real-time inventory tracking, and database-driven operations to support reliable and scalable business process automation.
 
+![Inventory Management System](inventory-management-system.png)
+
+*Block diagram of the inventory management system showing user interface, application logic (C#), and SQL Server database interaction.*
+
 **Technologies & Tools:**  
 - C# (.NET framework)  
 - Microsoft SQL Server  
